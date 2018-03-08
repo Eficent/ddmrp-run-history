@@ -7,6 +7,12 @@ This script allows you to build DDMRP history by walking through a range of
 dates changing user's system date on steps of X days up to a certain date, and
 running the cron jobs that update the DDMRP buffers.
 
+How to install it
+-----------------
+git clone https://github.com/Eficent/ddmrp-run-history.git
+cd ddmrp-run-history
+
+
 How to execute it
 -----------------
 
